@@ -12,7 +12,7 @@ Currently developing a public portfolio of SAP2000 seismic analysis projects,
 IS code calculations and structural engineering documentation.
 
 ## Featured Projects
-[Seismic Analysis — Regular & Irregular RC Buildings](#) | Response spectrum analysis of 6 RC building models per IS 1893:2016 | SAP2000, IS 1893 |
+[Seismic Analysis of Regular and Irregular RC Buildings by Aman Paturde.pdf](https://github.com/user-attachments/files/28188953/Seismic.Analysis.of.Regular.and.Irregular.RC.Buildings.by.Aman.Paturde.pdf) | Response spectrum analysis of 6 RC building models per IS 1893:2016 | SAP2000, IS 1893 |
 
 
 ## Skills
