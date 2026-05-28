@@ -4,7 +4,7 @@
 📍 Amravati, Maharashtra | B.Tech Civil Engineering  
 🔬 Focused on: Earthquake-Resistant Design, RC Structures, Computational Modeling  
 📖 Preparing for: GATE 2027  
-✍️ Writing on: [Substack link]  
+✍️ Writing on: https://amanpaturde.substack.com/  
 🔗 LinkedIn: https://www.linkedin.com/in/aman-paturde-840a88290/
 
 ## What I'm Building
@@ -16,5 +16,5 @@ IS code calculations and structural engineering documentation.
 
 
 ## Skills
-SAP2000 · Response Spectrum Analysis · IS 1893:2016 · IS 456:2000 · Earthquake Engineering · 
+SAP2000 · Response Spectrum Analysis · IS 1893:2016 · IS 456:2000 · Earthquake Engineering · Non-linear Pushover Analysis ·
 RC Frame Design · Seismic Irregularity Evaluation · Earthquake Resistant Design · Technical Reporting
